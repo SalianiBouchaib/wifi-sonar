@@ -1,5 +1,4 @@
 # Enhanced 3D WiFi Sonar Analyzer - Complete Technical Documentation
-
 ## 📋 Table of Contents
 1. [Overview](#overview)
 2. [Signal Processing Principles](#signal-processing-principles)
